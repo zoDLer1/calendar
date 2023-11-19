@@ -8,7 +8,7 @@
 2. Склонируйте репозиторий:
 
     ```bash
-    git clone https://github.com/yourusername/simple-calendar.git](https://github.com/zoDLer1/calendar.git)
+    git clone https://github.com/zoDLer1/calendar.git
     cd calendar
     ```
 
